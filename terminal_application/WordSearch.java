@@ -1,8 +1,8 @@
 
 import java.util.*;
 
-
 public class WordSearch {
+
 
     static class TrieNode {
         TrieNode[] children = new TrieNode[26];
@@ -24,7 +24,7 @@ public class WordSearch {
     static void insert(String word) {
         TrieNode node = root;
 
-        for (char ch : word.toCharArray()) {
+        for(char ch : word.toCharArray()) {
             int index = ch - 'a';
 
             if (node.children[index] == null) {
