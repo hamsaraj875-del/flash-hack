@@ -1,6 +1,7 @@
 
 import java.util.*;
 
+
 public class WordSearch {
 
     static class TrieNode {
@@ -136,6 +137,7 @@ public class WordSearch {
                 System.out.println("Path: " + String.join(" -> ", entry.getValue()));
             }
         }
+        
 
         System.out.println("\nTotal words found: " + result.size());
         System.out.printf("Execution time: %.3f ms%n",
