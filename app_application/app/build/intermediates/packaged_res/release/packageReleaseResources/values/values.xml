@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="expedition_bg">#0B1015</color>
+    <color name="ic_launcher_background">#D85A30</color>
+    <string name="app_name">Expedition — Word Recovery</string>
+    <style name="Theme.ExpeditionWordRecovery" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/expedition_bg</item>
+        <item name="android:statusBarColor">@color/expedition_bg</item>
+        <item name="android:navigationBarColor">@color/expedition_bg</item>
+    </style>
+</resources>

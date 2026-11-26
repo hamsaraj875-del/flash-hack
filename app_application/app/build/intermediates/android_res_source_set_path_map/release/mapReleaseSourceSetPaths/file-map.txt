@@ -1,0 +1,8 @@
+com.expedition.wordrecovery.app-pngs-0 /home/hamsaraj/hamsaraj/VSCode/MyProjects/flash hack/app_application/app/build/generated/res/pngs/release
+com.expedition.wordrecovery.app-updated_navigation_xml-1 /home/hamsaraj/hamsaraj/VSCode/MyProjects/flash hack/app_application/app/build/generated/updated_navigation_xml/release
+com.expedition.wordrecovery.app-packageReleaseResources-2 /home/hamsaraj/hamsaraj/VSCode/MyProjects/flash hack/app_application/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.expedition.wordrecovery.app-packageReleaseResources-3 /home/hamsaraj/hamsaraj/VSCode/MyProjects/flash hack/app_application/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.expedition.wordrecovery.app-release-4 /home/hamsaraj/hamsaraj/VSCode/MyProjects/flash hack/app_application/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.expedition.wordrecovery.app-main-5 /home/hamsaraj/hamsaraj/VSCode/MyProjects/flash hack/app_application/app/src/main/res
+com.expedition.wordrecovery.app-release-6 /home/hamsaraj/hamsaraj/VSCode/MyProjects/flash hack/app_application/app/src/release/res
+gradleHome-0 /home/hamsaraj/.gradle
